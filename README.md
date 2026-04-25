@@ -23,9 +23,9 @@ You can log in directly on the live site using these test accounts:
 
 | | |
 |---|---|
-| 🌐 Live Frontend | [city-guard.vercel.app](https://your-deployed-url.vercel.app) |
-| ⚙️ Live Backend API | [city-guard-api.onrender.com](https://your-backend-url.onrender.com) |
-| 📁 GitHub Repo | [github.com/your-username/city-guard](https://github.com/your-username/city-guard) |
+| 🌐 Live Frontend | [city-guard-police-command-center-da.vercel.app](https://city-guard-police-command-center-da.vercel.app) |
+| ⚙️ Live Backend API | [city-guard-police-command-center.onrender.com](https://city-guard-police-command-center.onrender.com) |
+| 📁 GitHub Repo | [github.com/Shiakh0112/City-Guard-Police-Command-center-Dashboard](https://github.com/Shiakh0112/City-Guard-Police-Command-center-Dashboard) |
 
 ---
 
@@ -162,8 +162,8 @@ main dashboard/
 ### Step 1 — Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/city-guard.git
-cd city-guard
+git clone https://github.com/Shiakh0112/City-Guard-Police-Command-center-Dashboard.git
+cd City-Guard-Police-Command-center-Dashboard
 ```
 
 ---
@@ -242,21 +242,6 @@ VITE v8.x.x  ready in xxx ms
 Go to: **http://localhost:5173**
 
 You'll see the Login page. Click **Register**, create an **Admin** account, and you're in!
-
----
-
-## 🔑 Demo Credentials (Live App)
-
-You can log in directly on the live site using these test accounts:
-
-| Role | Email | Password |
-|---|---|---|
-| 👑 Admin | khatikashfaq992@gmail.com | Shaikh0112 |
-| 👁️ Viewer | khanashfaq9423@gmail.com | Shaikh0112 |
-| 👁️ Viewer | hasan2323@gmail.com | hasan@2323 |
-
-> **Admin account** has full access — create officers, manage users, delete incidents.
-> **Viewer accounts** are read-only — can view dashboard and stats but cannot create or edit anything.
 
 ---
 
@@ -460,8 +445,8 @@ axios, recharts, tailwindcss v4, framer-motion, react-icons, lucide-react
 
 **Your Name**
 📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-🐙 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/shaikh-ashfaq-shaikh-qayyum)
+🐙 [GitHub](https://github.com/Shiakh0112)
 
 ---
 
