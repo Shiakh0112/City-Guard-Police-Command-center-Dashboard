@@ -7,13 +7,18 @@ dotenv.config();
 
 const app = express();
 
-app.use(cors({
+const corsOptions = {
   origin: [
     "http://localhost:5173",
     "https://city-guard-police-command-center-da.vercel.app"
   ],
-  credentials: true
-}));
+  credentials: true,
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization"]
+};
+
+app.use(cors(corsOptions));
+app.options("*", cors(corsOptions));
 app.use(express.json());
 
 app.use("/api/auth",      require("./routes/auth"));
