@@ -4,15 +4,9 @@ A full-stack **MERN** application — a real-time police command center with rol
 
 ---
 
-## 🔑 Demo Credentials (Live App)
 
-You can log in directly on the live site using these test accounts:
 
-| Role | Email | Password |
-|---|---|---|
-|  Admin | khatikashfaq992@gmail.com | Shaikh0112 |
-|  Viewer | khanashfaq9423@gmail.com | Shaikh0112 |
-|  Viewer | hasan2323@gmail.com | hasan@2323 |
+
 
 > **Admin account** has full access — create officers, manage users, delete incidents.
 > **Viewer accounts** are read-only — can view dashboard and stats but cannot create or edit anything.
